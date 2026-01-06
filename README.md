@@ -4,9 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Shourja Das</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Building+Intelligent+Systems;Data+Science+%26+Analytics" alt="Typing SVG" />
-</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shourja-das-356125350) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sad_21353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shourja2007@gmail.com) 
 
