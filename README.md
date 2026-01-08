@@ -17,6 +17,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shourja-134&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+![snake gif](https://github.com/Shourja-134/Shourja-134/blob/output/github-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
@@ -25,5 +28,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/Shourja-134/Shourja-134/blob/output/github-snake.svg)
+
 
