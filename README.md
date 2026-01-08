@@ -15,6 +15,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourja-134&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 
 ![snake gif](https://github.com/Shourja-134/Shourja-134/blob/output/github-snake.svg)
 
