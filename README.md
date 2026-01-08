@@ -25,5 +25,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/Shourja-134/Shourja-134/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Shourja-134/Shourja-134/blob/output/github-snake.svg)
 
