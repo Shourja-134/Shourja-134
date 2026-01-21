@@ -9,6 +9,11 @@
 
 I’m a passionate Computer Science and Engineering student interested in Web Development and AI/ML. I enjoy building modern web applications, exploring intelligent systems, and continuously learning new technologies to solve real-world problems. 🚀
 
+- 🤖 **Learning:** Web Development, Python Programming
+- 🎯 **Current Goal:** Mastering fundamentals 
+- 📫 **Reach Me:** shourja2007@gmail.com
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shourja-das-356125350) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sad_21353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shourja2007@gmail.com) 
 
